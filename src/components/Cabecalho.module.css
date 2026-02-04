@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&family=Quicksand:wght@300..700&display=swap");
+
+body{
+  background-color: #E5E6F8;
+}
+
+.cabecalho {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
