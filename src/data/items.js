@@ -63,6 +63,6 @@ export const itensInicio = [
         fav: false,
         ano: "2008",
         estudio: "A-1 Pictures e posteriormente pela CloverWorks",
-        image: "https://filmow.com/kuroshitsuji-4a-temporada-t370691/",
+        image: "https://img.elo7.com.br/product/zoom/557A3A5/quadro-black-butler-kuroshitsuji-anime-manga-japones-terror-vintage.jpg",
     },
 ]
